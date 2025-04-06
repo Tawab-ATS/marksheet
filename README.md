@@ -1,2 +1,2 @@
 # marksheet
-the code i have written in python language for marksheet using if-else statement.
+the code i have written code in python language using google colab for marksheet.
